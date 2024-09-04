@@ -1,5 +1,5 @@
 
-PROJECT TITLE: Weather.CSV
+PROJECT TITLE: Weather.CSV (LEARNING PROJECT)
 AUTHOR: Tshireletso Mohlakwane 
 E-MAIL : tshiremohlakwane@gmail.com
 DATE : 05 APRIL 2024
